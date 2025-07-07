@@ -3,7 +3,7 @@
 This repository contains a simple example of predicting house prices based on area using a neural network built with TensorFlow and Keras.
 
 It trains a regression model to predict the price (in lakhs) of a house given its area (in square feet).  
-The dataset is tiny and illustrative — designed for educational and demonstration purposes.
+The dataset is tiny and illustrative designed for educational and demonstration purposes.
 
 ---
 
@@ -69,7 +69,7 @@ The output shows the predicted price (in lakhs) for a house of 3000 sqft area.
 ---
 
 ## 📖 Notes
-- The dataset is minimal and linear — in practice, you’d use a much larger and more realistic dataset.
+- The dataset is minimal and linear in practice, you’d use a much larger and more realistic dataset.
 - The model uses a single hidden layer with ReLU activation.
 
 ---
