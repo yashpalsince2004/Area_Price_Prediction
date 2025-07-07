@@ -62,7 +62,7 @@ python Day3_Area_Price_prediction.py
 
 ## 📊 Output Example
 ```
-Prediction for 3000 sqft area: [[~]]
+Prediction for 3000 sqft area: [[~300]]
 ```
 The output shows the predicted price (in lakhs) for a house of 3000 sqft area.
 
